@@ -65,7 +65,7 @@ export default {
       },
       { section: "Components" },
       {
-        title: "Material UI",
+        title: "뉴스전체",
         root: true,
         bullet: "dot",
         icon: "flaticon2-browser-2",
